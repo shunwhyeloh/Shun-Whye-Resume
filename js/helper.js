@@ -33,12 +33,12 @@ var HTMLschoolDates = '<p>%data%</p>';
 var HTMLschoolMajor = '<p>%data%</p>';
 
 var HTMLonlineClasses = '<h3>Extra Curricular Achievements</h3>';
-var HTMLonlineTitle = '<li><p>%data%</li>';
+var HTMLonlineTitle = '<p>%data%<br>';
 var HTMLonlineDates = '<p>%data%</p><br>';
 
 var HTMLprojectStart = '<div class="project-entry"></div>';
 var HTMLprojectTitle = '<t>%data%</t>';
-var HTMLprojectDescription = '<li><p>%data%<br></li>';
+var HTMLprojectDescription = '<br><p>%data%</p>';
 var HTMLprojectDates = '<p>%data%</p><br>';
 var HTMLprojectImage = '<img src="%data%"><br>';
 
@@ -47,7 +47,7 @@ var HTMLworkEmployer = '<t>%data%</t>';
 var HTMLworkTitle = ' <p>%data%</p>';
 var HTMLworkDates = '<p>%data%</p><br>';
 var HTMLworkLocation = '<p>%data%</p>';
-var HTMLworkDescription = '<li><p>%data%</li><br>';
+var HTMLworkDescription = '<p>%data%</p><br>';
 
 var googleMap = '<div id="map"></div>';
 
