@@ -5,7 +5,7 @@ var bio = {
     "contacts": {
         "github": "github.com/shunwhyeloh",
         "email": "shunwhyel@gmail.com",
-        "location": "Malaysia"
+        "location": "Penang, Malaysia"
     },
 
     "skills": [
